@@ -2,9 +2,9 @@ simple-network-simulator
 ========================
 
 This software was used to create dynamic network animations:
-http://www.youtube.com/watch?v=ACNTyca5DM4
-http://www.youtube.com/watch?v=52uzQxnDOkg
-http://www.youtube.com/watch?v=I8MgoPT6D60
+- http://www.youtube.com/watch?v=ACNTyca5DM4
+- http://www.youtube.com/watch?v=52uzQxnDOkg
+- http://www.youtube.com/watch?v=I8MgoPT6D60
 
 To create such animation you will need 
 - Gephi http://www.gephi.org
