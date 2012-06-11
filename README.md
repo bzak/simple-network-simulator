@@ -18,5 +18,5 @@ The program also calculates correlation within ego networks as described in the 
 I know the code is quite ugly, I'm sorry for that but it is a fork of another project and it was intended for research purposes only. 
 It depends on tinkerpop gremlin version 0.6 
 
-However - it shoud work :) 
+However - it should work :) 
 
