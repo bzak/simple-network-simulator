@@ -14,7 +14,7 @@ To create such animation you will need
 Just turn on the streaming plugin in Gephi and run simulator. Binaries are ready to run in /deploy folder.
 
 The program also calculates correlation within ego networks as described in the paper:
-...
+http://www.lome.pl/wp-content/uploads/2012/06/B.-Zak_A.-Zbieg_Similarity-of-attitudes-model.pdf
 
 I know the code is quite ugly, I'm sorry for that but it is a fork of another project and it was intended for research purposes only. 
 It depends on tinkerpop gremlin version 0.6 
