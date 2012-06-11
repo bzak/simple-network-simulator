@@ -9,6 +9,7 @@ This software was used to create dynamic network animations:
 To create such animation you will need 
 - Gephi http://www.gephi.org
 - Gephi graph streaming plugin https://gephi.org/plugins/graph-streaming/
+- This little simulator
 
 Just turn on the streaming plugin in Gephi and run simulator. Binaries are ready to run in /deploy folder.
 
